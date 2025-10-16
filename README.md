@@ -41,7 +41,8 @@ Elle fournit un **tableau de bord web** qui affiche des statistiques claires sur
 
 ## 🎥 Démo vidéo
 
-👉 [Regarder la démonstration sur YouTube]([https://www.youtube.com/watch?v=fUE1tAz2DtE&t=62s])
+👉[Regarder la démonstration sur YouTube](https://www.youtube.com/watch?v=fUE1tAz2DtE&t=62s)
+
 
 *(mets ici ton vrai lien vidéo)*
 
