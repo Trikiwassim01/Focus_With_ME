@@ -33,7 +33,7 @@ Elle fournit un **tableau de bord web** qui affiche des statistiques claires sur
 
 ## 🖼️ Captures d’écran
 
-| Page d’accueil                   | Dashboard                               | Analyse en direct                    |
+| Page d’accueil                   | Dashboard                               | Espace collaboratif                  |
 | -------------------------------- | --------------------------------------- | ------------------------------------ |
 | ![Accueil](demo/images/home.png) | ![Dashboard](demo/images/dashboard.png) | ![Espace Collaboratif](demo/images/espace_collaboratif.png) |
 
@@ -41,7 +41,7 @@ Elle fournit un **tableau de bord web** qui affiche des statistiques claires sur
 
 ## 🎥 Démo vidéo
 
-👉 [Regarder la démonstration sur YouTube](https://youtu.be/xxxxxxx)
+👉 [Regarder la démonstration sur YouTube]([https://youtu.be/xxxxxxx](https://www.youtube.com/watch?v=fUE1tAz2DtE&t=62s))
 
 *(mets ici ton vrai lien vidéo)*
 
