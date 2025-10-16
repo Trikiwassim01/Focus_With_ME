@@ -1,39 +1,38 @@
 # 🎯 Focus With Me
 
-> **Focus With Me** est une application web qui aide les étudiants et professionnels à **améliorer leur concentration** grâce à une analyse intelligente en temps réel et à un tableau de bord interactif.
+> **Focus With Me** is a web application that helps students and professionals improve their concentration through real-time intelligent analysis and an interactive dashboard.
 
 ---
 
 ## 🚀 Aperçu du projet
 
-L’application utilise la **vision par ordinateur** et l’**intelligence artificielle** pour **analyser le niveau de concentration** des utilisateurs à partir de la caméra.
-Elle fournit un **tableau de bord web** qui affiche des statistiques claires sur l’évolution de la concentration au fil du temps.
-
+The application leverages computer vision and artificial intelligence to analyze the user’s concentration level using the webcam.
+It provides an intuitive web dashboard that displays clear statistics and trends showing how concentration evolves over time.
 ---
 
-## ✨ Fonctionnalités principales
+## ✨ Key Features
 
-* 🔍 **Analyse de concentration en temps réel**
+* 🔍 ** Real-time Focus Analysis**
 
-  * Détection des comportements liés à la baisse d’attention : perte de focus, distractions.
+  * Detects behaviors related to loss of attention such as distractions or lack of focus.
 
-* 📊 **Tableau de bord web**
+* 📊 **Interactive Dashboard**
 
-  * Graphiques et courbes représentant l’évolution du niveau de concentration.
+  * Displays charts and graphs showing concentration trends.
 
-* 🤝 **Coworking virtuel**
+* 🤝 **Virtual Coworking**
 
-  * Possibilité de rejoindre un espace virtuel pour travailler avec d’autres utilisateurs.
+  * Join a virtual workspace to focus alongside other users.
 
-* 🤖 **Assistant intelligent**
+* 🤖 **Smart Assistant**
 
-  * Conseils personnalisés basés sur les données de concentration.
+  * Offers personalized advice based on concentration data.
 
 ---
 
 ## 🖼️ Captures d’écran
 
-| Page d’accueil                   | Dashboard                               | Espace collaboratif                  |
+| Home Page                        | Dashboard                               | Collaborative Space                  |
 | -------------------------------- | --------------------------------------- | ------------------------------------ |
 | ![Accueil](demo/images/home.png) | ![Dashboard](demo/images/dashboard.png) | ![Espace Collaboratif](demo/images/espace_collaboratif.png) |
 
@@ -41,33 +40,33 @@ Elle fournit un **tableau de bord web** qui affiche des statistiques claires sur
 
 ## 🎥 Démo vidéo
 
-👉[Regarder la démonstration sur YouTube](https://www.youtube.com/watch?v=fUE1tAz2DtE&t=62s)
+👉[Watch the demo on YouTube](https://www.youtube.com/watch?v=fUE1tAz2DtE&t=62s)
 
 
-*(mets ici ton vrai lien vidéo)*
+
 
 ---
 
-## 🛠️ Technologies utilisées
+## 🛠️ Technologies Used
 
 * **Frontend** : Angular, TailwindCSS
 * **Backend** : Python (FastAPI)
-* **IA / Vision par ordinateur** : PyTorch, OpenCV (détection du niveau de concentration)
+* **IA / Vision par ordinateur** : PyTorch, OpenCV (focus level detection)
 * **Base de données** : Mongodb
-* **Autres** : Chart.js / Recharts pour les statistiques
+* **Autres** : Chart.js / Recharts for data visualization
 
 ---
 
-## ⚙️ Installation & exécution
+## ⚙️ Installation & Setup
 
-### Cloner le projet
+### Clone the project
 
 ```bash
 git clone https://github.com/Trikiwassim01/Focus_With_ME.git
 cd focus-with-me
 ```
 
-### Installer et lancer le frontend
+### Install and run the frontend
 
 ```bash
 cd frontend
@@ -75,7 +74,7 @@ npm install
 ng serve
 ```
 
-### Installer et lancer le backend
+### Install and run the backend
 
 ```bash
 cd backend
@@ -85,18 +84,18 @@ uvicorn main:app --reload
 
 ---
 
-## 📊 Améliorations futures
+## 📊 Future Improvements
 
-* Gamification avec points et badges.
-* Intégration de calendrier (Google Calendar, Outlook).
-* Optimisation de la précision du modèle de détection de concentration.
-* Version responsive mobile.
+* Gamification with points and badges.
+* Calendar integration (Google Calendar, Outlook).
+* Improved model accuracy for focus detection.
+* Responsive mobile version.
 
 ---
 
-## 👨‍💻 Auteur
+## 👨‍💻 Author
 
-Développé par **Wassim Triki**
+Developed by **Wassim Triki**
 
 * 📧 Email : [wassimtriki098@gmail.com](wassimtriki098@gmail.com)
 * 💼 [LinkedIn] ([https://www.linkedin.com/in/wassim-triki-7a18702a4/](https://www.linkedin.com/in/wassim-triki-7a18702a4/))
