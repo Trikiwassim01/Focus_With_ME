@@ -63,7 +63,7 @@ Elle fournit un **tableau de bord web** qui affiche des statistiques claires sur
 ### Cloner le projet
 
 ```bash
-git clone https://github.com/ton-compte/focus-with-me.git
+git clone https://github.com/Trikiwassim01/Focus_With_ME.git
 cd focus-with-me
 ```
 
