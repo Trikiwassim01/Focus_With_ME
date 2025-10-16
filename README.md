@@ -6,8 +6,7 @@
 
 ## 🚀 Aperçu du projet
 
-The application leverages computer vision and artificial intelligence to analyze the user’s concentration level using the webcam.
-It provides an intuitive web dashboard that displays clear statistics and trends showing how concentration evolves over time.
+The application uses computer vision and artificial intelligence to analyze users’ concentration levels via the webcam. It provides a web dashboard displaying clear statistics on focus evolution over time.
 ---
 
 ## ✨ Key Features
