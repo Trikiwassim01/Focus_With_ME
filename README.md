@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Aperçu du projet
+## 🚀 Project Overview
 
 The application leverages computer vision and artificial intelligence to analyze the user’s concentration level using the webcam.
 It provides an intuitive web dashboard that displays clear statistics and trends showing how concentration evolves over time.
@@ -31,7 +31,7 @@ It provides an intuitive web dashboard that displays clear statistics and trends
 
 ---
 
-## 🖼️ Captures d’écran
+## 🖼️ Screenshots
 
 | Home Page                        | Dashboard                               | Collaborative Space                  |
 | -------------------------------- | --------------------------------------- | ------------------------------------ |
@@ -39,7 +39,7 @@ It provides an intuitive web dashboard that displays clear statistics and trends
 
 ---
 
-## 🎥 Démo vidéo
+## 🎥 Video Demo
 
 👉[Watch the demo on YouTube](https://www.youtube.com/watch?v=fUE1tAz2DtE&t=62s)
 
