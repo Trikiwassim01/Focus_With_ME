@@ -13,7 +13,7 @@ It provides an intuitive web dashboard that displays clear statistics and trends
 
 ## ✨ Key Features
 
-* 🔍 ** Real-time Focus Analysis**
+* 🔍 **Real-time Focus Analysis**
 
   * Detects behaviors related to loss of attention such as distractions or lack of focus.
 
